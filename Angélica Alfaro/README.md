@@ -3,8 +3,11 @@
 ### Datos básicos
 
 ***Nombre:*** María Angélica Alfaro Fandiño
+
 ***Fecha de nacimiento:*** 28/02/2000
+
 ***Carnet:*** 2156504
+
 ***Nacionalidad:***  
 ![ ](https://i.pinimg.com/originals/c0/85/0c/c0850c3c534ce551c6c0ec44eca36f2b.jpg)
 
@@ -16,14 +19,16 @@
 ### Pasatiempos
 
 	* Leer
+
 	* Jugar voleibol
+
 	* Ver películas
 
 ### Código
 
 Uno de los primeros programas que aprendí fue:
 ```python
-	def main():
-		print("Hello world!")
-	main()
+def main():
+	print("Hello world!")
+main()
 ```
