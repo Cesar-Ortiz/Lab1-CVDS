@@ -4,7 +4,7 @@
 
 * César Ortiz
 
-###Datos básicos
+### Datos básicos
 
 **Edad:** 20 años
 
@@ -12,19 +12,19 @@
 
 **Carnet:** 2158184
 
-###Información académica
+### Información académica
 
 * **Materias**
 
- * *CVDS *
+  * *CVDS*
 
- * *AUPN*
+  * *AUPN*
 
- * *RECO*
+  * *RECO*
 
- * *EGI4*
+  * *EGI4*
 
- * *ESCU*
+  * *ESCU*
 
 * **Semestre**: Octavo
 
@@ -41,7 +41,7 @@
 
     * [Selección Colombia](https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Colombia)
 
-    * [Real Madrid](madridhttps://es.wikipedia.org/wiki/Real_Madrid_Club_de_F%C3%BAtbol)
+    * [Real Madrid](https://es.wikipedia.org/wiki/Real_Madrid_Club_de_F%C3%BAtbol)
 
 2. CÓDIGO
 
