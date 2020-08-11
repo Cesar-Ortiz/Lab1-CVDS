@@ -28,7 +28,7 @@
 
 * **Semestre**: Octavo
 
-###Gustos personales
+### Gustos personales
 
 1. FÚTBOL
 
