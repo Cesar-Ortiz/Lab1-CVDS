@@ -35,6 +35,6 @@ main()
 ### Learn Git Branching
 
 **Main**
-![Image](main.png)
+![](main.png)
 
 
