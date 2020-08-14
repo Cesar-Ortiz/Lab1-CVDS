@@ -35,6 +35,6 @@ main()
 ### Learn Git Branching
 
 **Main**
-![](main.png)
+![](https://github.com/Cesar-Ortiz/Lab1-CVDS/blob/master/Ang%C3%A9lica%20Alfaro/main.PNG)
 
 
