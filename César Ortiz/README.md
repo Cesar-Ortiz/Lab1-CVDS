@@ -52,3 +52,7 @@
 	print("Hello world!")
 	main()
 	```
+###Learn git branching
+
+![](https://github.com/Cesar-Ortiz/Lab1-CVDS/blob/master/C%C3%A9sar%20Ortiz/MAIN.PNG)
+![](https://github.com/Cesar-Ortiz/Lab1-CVDS/blob/master/C%C3%A9sar%20Ortiz/REMOTE.PNG)
